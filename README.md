@@ -37,3 +37,4 @@ Where Ki is maximum carrying capacity for species i and it can be found with equ
 - Third order interactions added to project
 - Generalized high-order interactions, order specified in the function call
 - Automate creating a dataset of set number of repeats with specified parameters
+- Implement a simulator for gLV with cyclic dynamics (as in rock-paper-scissors game)
